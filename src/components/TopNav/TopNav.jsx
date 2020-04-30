@@ -1,6 +1,6 @@
 import React from "react";
 
-import {AppBar, Toolbar, Typography, IconButton, Link } from '@material-ui/core';
+import {AppBar, Toolbar, Typography, IconButton } from '@material-ui/core';
 import GitHubIcon from '@material-ui/icons/GitHub';
 
 import coronavirus from '../../resource/coronavirus.svg'
